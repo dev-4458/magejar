@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste. Agency working on eCommerce platforms. I heart code. 👋
 
 <!--
 **magejar/magejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
